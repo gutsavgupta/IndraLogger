@@ -5,17 +5,22 @@
 #ifndef CLOGGER_H
 #define CLOGGER_H
 
-template<typename CloggerDataType, typename BufferType>
+template<typename Derived, typename BufferType>
 class Clogger
 {
 public:
     using LOGGER_ID   = uint64_t;
-    using LOGGER_DATA = CloggerDataType;
+    using BUFFER_TPE  = BufferType;
 
 public:
+    Clogger();
+
+    // BufferConfigure
+    void Configure();
 
     // time priority detection
-    // TODO: get time of last read log
+    bool ReadLastTime(BufferType::TimeType& timePoint);
+
 
     // read a single log buffer from logger
     // return the read char counts
@@ -28,7 +33,7 @@ public:
     Clogger& operator<<(T var);
 
 protected:
-    
+    BUFFER_TYPE m_buffer;   
 };
 
 #endif
