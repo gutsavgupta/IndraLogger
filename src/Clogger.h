@@ -16,7 +16,9 @@ public:
     Clogger();
 
     // BufferConfigure
-    void Configure();
+    bool Configure();
+    bool SetSeverity(SEVERITY_TYPE severity);
+    bool SetBufferSize(size_t bufferSize);
 
     // time priority detection
     bool ReadLastTime(BufferType::TimeType& timePoint);
@@ -33,7 +35,8 @@ public:
     Clogger& operator<<(T var);
 
 protected:
-    BUFFER_TYPE m_buffer;   
+    BUFFER_TYPE m_buffer;
+    SEVERITY_TYPE m_severity;
 };
 
 #endif
