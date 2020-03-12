@@ -1,5 +1,19 @@
 #pragma once
 
+/* @doc
+ * EnumCreator.h : defines EnumCreator macro for defining simple
+ * Enum type with stringify() functionality in built, apart from
+ * this if we are not using stringigy, the performance impact is
+ * minimal
+ *
+ * Main Methods
+ *  - stringify()
+ *
+ * Known Limitation:
+ *  - Only works for simple enum declaration not for value initalized
+ *    Enum. For ex: enum {E1 = 1, E2 = 2 ..}
+ */
+
 #include <exception>
 #include <iostream>
 #include <string>
@@ -9,16 +23,14 @@
 namespace clogger {
 namespace utility {
 
-template<typename EnumClass>
+template <typename EnumClass>
 class Stringify
 {
 public:
-    // public aliases
     using Enum          = typename EnumClass::Enum;
     using ContainerType = typename std::unordered_map<Enum, std::string>;
 
 public:
-    // public interface
     static std::string& ConvertToString(Enum val)
     {
         s_isParsed ? (void)0 : (void)(s_isParsed = parse());
@@ -35,7 +47,6 @@ public:
     }
 
 protected:
-    // protected interface
     static bool parse()
     {
         auto   enumStr  = EnumClass::GetEnumStr();
@@ -58,8 +69,7 @@ protected:
             return false;
         }
 
-        // Utility function to print enumMap, curretly keeping it lamda as
-        // I don't require it anywhere else
+        // Utility function to print enumMap, currently keeping it as lamda
         auto printEnumMap = [&]() -> void {
             for (auto itr = s_enumStringMap.begin();
                  itr != s_enumStringMap.end();
@@ -85,22 +95,21 @@ protected:
     static std::string& trim(std::string& str) { return ltrim(rtrim(str)); }
 
 protected:
-    // protected static member
     static constexpr const char* whiteSpace = " \t\n";
     static ContainerType         s_enumStringMap;
     static bool                  s_isParsed;
 };
 
-template<typename T>
+template <typename T>
 typename Stringify<T>::ContainerType Stringify<T>::s_enumStringMap;
 
-template<typename T>
+template <typename T>
 bool Stringify<T>::s_isParsed{ false };
 
 } // namespace utility
 } // namespace clogger
 
-#define CustomEnum(enumName, ...)                                              \
+#define EnumCreator(enumName, ...)                                             \
     struct enumName                                                            \
     {                                                                          \
         enum Enum                                                              \
