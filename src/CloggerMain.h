@@ -2,8 +2,8 @@
  * CLogger CloggerMain class
  *  created on:  3rd August 2019
  *  author:      utsav gupta
- ******************************************************************* 
- 
+ *******************************************************************
+
  * @Description
  *
  * CloggerMain base class is designed to be a singleton object
@@ -23,51 +23,51 @@
 
 #ifndef CLOGGERMAIN_H_
 #define CLOGGERMAIN_H_
-namespace clogger{
+namespace clogger {
 
 template<typename LOGGER, typename DUMPER>
 class CloggerMain
 {
-    public:
-        using lid_t = LOGGER::LOGGER_ID;
-        using did_t = DUMPER::DUMPER_ID:
-    
-    protected:
-        // Containers Type definiton
-        using CloggerMainPtr = std::unique_ptr<CloggerMain>;
-        using LoggerPairType = std::pair<lid_t, LOGGER>;
-        using LoggerContType = std::unordered_map<lid_t, LoggerPairType>;
-        using DumperPairType = std::pair<did_t, DUMPER>;
-        using DumperContType = std::unordered_map<did_t, DumperPairType>;
+public:
+    using lid_t = LOGGER::LOGGER_ID;
+    using did_t = DUMPER::DUMPER_ID;
 
-    public:
-        // factory function
-        CloggerMain& GetInstance();
-        
-        // Configure Function
-        bool Configure(/*TODO insert config file*/);
+protected:
+    // Containers Type definiton
+    using CloggerMainPtr = std::unique_ptr<CloggerMain>;
+    using LoggerPairType = std::pair<lid_t, LOGGER>;
+    using LoggerContType = std::unordered_map<lid_t, LoggerPairType>;
+    using DumperPairType = std::pair<did_t, DUMPER>;
+    using DumperContType = std::unordered_map<did_t, DumperPairType>;
 
-        // Thread specific logger
-        LoggerPairType GetLogger();
+public:
+    // factory function
+    CloggerMain& GetInstance();
 
-        // IdSpecific logger
-        LoggerPairType GetLogger(lid_t loggerId);
-        
-        // Add Dumper in the logger
-        bool AddDumper(DUMPER dumper);
+    // Configure Function
+    bool Configure(/*TODO insert config file*/);
 
-        // Run logger for i steps (for i=-1, run indefinely)
-        void run(int step = -1);
+    // Thread specific logger
+    LoggerPairType GetLogger();
 
-    protected:
-        // proctected constructor so that this remain singleton
-        CloggerMain();
+    // IdSpecific logger
+    LoggerPairType GetLogger(lid_t loggerId);
 
-    protected:
-        CloggerMainPtr m_singleton;
-        LoggerContType m_loggers;
-        DumperContType m_dumpers;
+    // Add Dumper in the logger
+    bool AddDumper(DUMPER dumper);
+
+    // Run logger for i steps (for i=-1, run indefinely)
+    void run(int step = -1);
+
+protected:
+    // proctected constructor so that this remain singleton
+    CloggerMain();
+
+protected:
+    CloggerMainPtr m_singleton;
+    LoggerContType m_loggers;
+    DumperContType m_dumpers;
 };
 
 } // namespace clogger
-#endif 
+#endif
