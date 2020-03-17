@@ -127,7 +127,7 @@ bool Stringify<T>::s_isParsed{ false };
             return std::string{ #__VA_ARGS__ };                                \
         }                                                                      \
                                                                                \
-        constexpr enumName(Enum _enumVal)                                      \
+        constexpr enumName(Enum _enumVal = static_cast<Enum>(0))               \
           : m_enumVal(_enumVal)                                                \
         {                                                                      \
         }                                                                      \

@@ -15,6 +15,7 @@
 
 #pragma once
 
+#include <iostream>
 #include <utility/Severity.h>
 
 namespace clogger {
@@ -50,20 +51,28 @@ public:
         return m_buffer.SetSize(bufferSize);
     }
 
-    template <typename PriorityT>
-    bool ReadPriority(PriorityType& priority)
+    template <typename ReaderT>
+    bool ReadPriority(ReaderT& reader)
     {
-        return priority.read(&m_buffer);
+        return reader.readPriority(&m_buffer);
     }
 
     template <typename ReaderT>
     bool ReadBuffer(ReaderT& reader)
     {
-        return reader.read(&m_buffer);
+        return reader.readBuffer(&m_buffer);
+    }
+
+    BufferT::BufferUnitT* GetBufferUnit(const SeverityT severity)
+    {
+        if (severity >= m_severity)
+        {
+            return nullptr;
+        }
+        return m_buffer.next(severity);
     }
 
     auto GetSeverity() const { return m_severity; }
-    auto GetBufferUnit() { return m_buffer.next(); }
     auto ClearBuffer() { return m_buffer.clear(); }
 
 protected:
