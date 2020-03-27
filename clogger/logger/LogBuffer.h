@@ -12,13 +12,13 @@
 namespace clogger {
 namespace logger {
 
-template <typename SeverityType, typename BufferType>
+template <typename BufferType>
 class LogBuffer
 {
 public:
-    using SeverityT = SeverityType;
     using BufferT   = BufferType;
     using DataUnitT = typename BufferT::DataUnitT;
+    using SeverityT = typename DataUnitT::SeverityT;
 
 public:
     LogBuffer() = default;
@@ -59,7 +59,7 @@ public:
 
             auto bufferPtr = m_buffer.getHead();
 
-            bufferPtr->init();
+            bufferPtr->init(severity);
 
             // make the write state as BLOCK
             m_writeState = State::BLOCK;

@@ -28,7 +28,7 @@ public:
     }
 
     template <typename T>
-    BufferUnitType& operator<<(T val)
+    ThisT& operator<<(T val)
     {
         data << val;
         return *this;
