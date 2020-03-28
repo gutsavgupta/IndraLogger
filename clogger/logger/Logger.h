@@ -1,5 +1,5 @@
 /* @doc
- * LoggerBaseClass
+ * LoggerClass
  * This class should standardize the interface required
  * by LoggerMain class and interface provide to user
  * Also since this class will be exposing functionality
@@ -21,31 +21,29 @@
 namespace clogger {
 namespace logger {
 
-template <typename Derived,
-          typename BufferT,
-          typename SeverityT = utility::Severity>
-class LoggerBase
+template <typename BufferT, typename SeverityT = typename utility::Severity>
+class Logger
 {
 public:
-    LoggerBase()
-      : LoggerBase(SeverityT::INFO, BufferT::DEFAULT_BUFFER_SIZE)
+    Logger()
+      : Logger(SeverityT::INFO, BufferT::DEFAULT_BUFFER_SIZE)
     {
     }
-    LoggerBase(SeverityT severity)
-      : LoggerBase(severity, BufferT::DEFAULT_BUFFER_SIZE)
+    Logger(SeverityT severity)
+      : Logger(severity, BufferT::DEFAULT_BUFFER_SIZE)
     {
     }
-    LoggerBase(size_t bufferSize)
-      : LoggerBase(SeverityT::INFO, bufferSize)
+    Logger(size_t bufferSize)
+      : Logger(SeverityT::INFO, bufferSize)
     {
     }
-    LoggerBase(SeverityT severity, size_t bufferSize)
+    Logger(SeverityT severity, size_t bufferSize)
       : m_severity(severity)
       , m_buffer(bufferSize)
     {
     }
 
-    void SetSeverity(SeverityT severity) { m_severity = severity }
+    void SetSeverity(SeverityT severity) { m_severity = severity; }
     bool SetBufferSize(size_t bufferSize = BufferT::DEFAULT_BUFFER_SIZE)
     {
         return m_buffer.SetSize(bufferSize);
@@ -63,15 +61,17 @@ public:
         return reader.readBuffer(&m_buffer);
     }
 
-    BufferT::BufferUnitT* GetBufferUnit(const SeverityT severity)
+    bool CheckSeverity(const SeverityT severity) const
     {
-        if (severity >= m_severity)
-        {
-            return nullptr;
-        }
-        return m_buffer.next(severity);
+        return severity <= m_severity;
     }
 
+    typename BufferT::BufferUnitT* WriteBuffer()
+    {
+        return m_buffer.WriteNext();
+    }
+
+    void WriteFinish() { m_buffer.WriteFinish(); }
     auto GetSeverity() const { return m_severity; }
     auto ClearBuffer() { return m_buffer.clear(); }
 
