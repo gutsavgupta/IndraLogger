@@ -6,6 +6,8 @@
 #pragma once
 
 #include <cstdint>
+#include <ctime>
+#include <iomanip>
 #include <iostream>
 
 namespace clogger {
@@ -41,6 +43,13 @@ struct NoCopyReader
         auto dataUnit = buffer.ReadNext();
         if (dataUnit)
         {
+            // Dump Time & Severity
+            auto time     = dataUnit->getTime();
+            auto severity = dataUnit->GetSeverity();
+
+            m_dumper.dump(time, severity);
+
+            // Dump Data
             static constexpr std::size_t bufferLen{ 1024 };
             char                         readBuffer[bufferLen];
             while (not dataUnit->Empty())
@@ -71,6 +80,13 @@ private:
 class BasicDumper
 {
 public:
+    template <typename SeverityT>
+    void dump(const timespec& time, SeverityT severity)
+    {
+        std::cout << std::put_time(std::localtime(&(time.tv_sec)), "%T") << ":"
+                  << time.tv_nsec << " [" << severity.stringify() << "] ";
+    }
+
     void dump(const char* buffer, ssize_t len) { std::cout.write(buffer, len); }
 };
 

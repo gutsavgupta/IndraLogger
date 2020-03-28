@@ -26,11 +26,11 @@ class Logger
 {
 public:
     Logger()
-      : Logger(SeverityT::INFO, BufferT::DEFAULT_BUFFER_SIZE)
+      : Logger(SeverityT::INFO)
     {
     }
     Logger(SeverityT severity)
-      : Logger(severity, BufferT::DEFAULT_BUFFER_SIZE)
+      : m_severity(severity)
     {
     }
     Logger(size_t bufferSize)
@@ -52,13 +52,13 @@ public:
     template <typename ReaderT>
     bool ReadPriority(ReaderT& reader)
     {
-        return reader.readPriority(&m_buffer);
+        return reader.readPriority(m_buffer);
     }
 
     template <typename ReaderT>
     bool ReadBuffer(ReaderT& reader)
     {
-        return reader.readBuffer(&m_buffer);
+        return reader.ReadBuffer(m_buffer);
     }
 
     bool CheckSeverity(const SeverityT severity) const
@@ -66,9 +66,9 @@ public:
         return severity <= m_severity;
     }
 
-    typename BufferT::BufferUnitT* WriteBuffer()
+    auto WriteBuffer(SeverityT severity)
     {
-        return m_buffer.WriteNext();
+        return m_buffer.WriteNext(severity);
     }
 
     void WriteFinish() { m_buffer.WriteFinish(); }

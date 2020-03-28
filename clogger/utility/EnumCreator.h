@@ -133,9 +133,9 @@ bool Stringify<T>::s_isParsed{ false };
         }                                                                      \
         constexpr operator Enum() const { return m_enumVal; }                  \
                                                                                \
-        std::string& stringify() { return stringify(m_enumVal); }              \
+        std::string& stringify() const { return stringify(m_enumVal); }        \
                                                                                \
-        static std::string& stringify(Enum val)                                \
+        static std::string& stringify(const Enum val)                          \
         {                                                                      \
             using StringifyType =                                              \
               typename clogger::utility::Stringify<enumName>;                  \
