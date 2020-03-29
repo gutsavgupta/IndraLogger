@@ -1,29 +1,28 @@
 /* @doc
- * LoggerClass
- * This class should standardize the interface required
- * by LoggerMain class and interface provide to user
- * Also since this class will be exposing functionality
- * in fast paths of code, we recommend avoid adding virtual
- * interfaces in the base class
- *
- * Main interfaces
- *  - TODO
- *
- * Limitation
- *  - TODO
+ * filename:    Logger.h
+ * author:      ugupta
+ * Description:
+ * Logger class is the main class to write log to and read
+ * logs from. We will be using objects of this class (templated
+ * on logger types, from which we get info of bufferType and
+ * Severity type). LoggerMain class will interact with Logger's
+ * interface to configure/read the logs
  */
 
 #pragma once
 
 #include <iostream>
-#include <utility/Severity.h>
 
 namespace clogger {
 namespace logger {
 
-template <typename BufferT, typename SeverityT = typename utility::Severity>
+template <typename LoggerTypes>
 class Logger
 {
+public:
+    using LoggerBufferT = typename LoggerTypes::LoggerBufferT;
+    using SeverityT     = typename LoggerTypes::SeverityT;
+
 public:
     Logger()
       : Logger(SeverityT::INFO)
@@ -43,42 +42,46 @@ public:
     {
     }
 
-    void SetSeverity(SeverityT severity) { m_severity = severity; }
-    bool SetBufferSize(size_t bufferSize = BufferT::DEFAULT_BUFFER_SIZE)
-    {
-        return m_buffer.SetSize(bufferSize);
-    }
+    // handler interfaces
+    template <typename HandlerT>
+    bool HandleBuffer(HandlerT& handler);
 
-    template <typename ReaderT>
-    bool ReadPriority(ReaderT& reader)
-    {
-        return reader.readPriority(m_buffer);
-    }
+    // Write interfaces
+    auto WriteNext(SeverityT severity) { return m_buffer.WriteNext(severity); }
+    auto WriteFinish() { return m_buffer.WriteFinish(); }
 
-    template <typename ReaderT>
-    bool ReadBuffer(ReaderT& reader)
-    {
-        return reader.ReadBuffer(m_buffer);
-    }
+    // Setter interfaces
+    auto SetBufferSize(size_t bufferSize);
+    auto SetSeverity(SeverityT severity) { m_severity = severity; }
 
-    bool CheckSeverity(const SeverityT severity) const
-    {
-        return severity <= m_severity;
-    }
-
-    auto WriteBuffer(SeverityT severity)
-    {
-        return m_buffer.WriteNext(severity);
-    }
-
-    void WriteFinish() { m_buffer.WriteFinish(); }
-    auto GetSeverity() const { return m_severity; }
+    // State interfaces
     auto ClearBuffer() { return m_buffer.clear(); }
+    auto GetSeverity() const { return m_severity; }
+    bool CheckSeverity(const SeverityT severity) const;
 
 protected:
-    BufferT   m_buffer;
-    SeverityT m_severity{ SeverityT::ALERTS };
+    LoggerBufferT m_buffer;
+    SeverityT     m_severity{ SeverityT::ALERTS };
 };
+
+template <typename T>
+template <typename H>
+inline bool Logger<T>::HandleBuffer(H& handler)
+{
+    return handler.handle(m_buffer);
+}
+
+template <typename T>
+inline bool Logger<T>::CheckSeverity(const SeverityT severity) const
+{
+    return severity <= m_severity;
+}
+
+template <typename T>
+inline auto Logger<T>::SetBufferSize(size_t bufferSize)
+{
+    return m_buffer.SetSize(bufferSize);
+}
 
 } // namespace logger
 } // namespace clogger

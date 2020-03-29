@@ -1,3 +1,12 @@
+/* @doc
+ * filename: FixedRingBuffer
+ * author: ugupta
+ * date: 30th March 2020
+ * Description:
+ * Simple implemetation for FixedRingBuffer
+ * This buffer is not thread safe currently, however
+ * we can use this with single reader and single write program
+ */
 #pragma once
 
 #include <vector>
@@ -9,33 +18,13 @@ template <typename DataUnitType>
 class FixedRingBuffer
 {
 public:
-    static constexpr size_t MaxBufferSize{ 1ULL << 20 };
+    static constexpr size_t MaxBufferSize{ 1ULL << 16 };
     using DataUnitT = DataUnitType;
 
 public:
     FixedRingBuffer(size_t _size = MaxBufferSize) { SetSize(_size); }
 
-    bool SetSize(size_t bufferSize)
-    {
-        auto nextPowerOf2 = [](size_t a) -> size_t {
-            --a;
-            a |= a >> 1;
-            a |= a >> 2;
-            a |= a >> 4;
-            a |= a >> 8;
-            a |= a >> 16;
-            return a;
-        };
-
-        if (bufferSize > MaxBufferSize)
-        {
-            return false;
-        }
-
-        m_size = nextPowerOf2(bufferSize);
-        m_buffer.resize(m_size + 1);
-        return true;
-    }
+    bool SetSize(size_t bufferSize);
 
     size_t NextIdx(size_t idx) { return (idx + 1) & m_size; }
 
@@ -59,6 +48,29 @@ private:
     size_t     m_tail{ 0 };
     size_t     m_size{ 0 };
 };
+
+template <typename T>
+bool FixedRingBuffer<T>::SetSize(size_t bufferSize)
+{
+    auto nextPowerOf2 = [](size_t a) -> size_t {
+        --a;
+        a |= a >> 1;
+        a |= a >> 2;
+        a |= a >> 4;
+        a |= a >> 8;
+        a |= a >> 16;
+        return a;
+    };
+
+    if (bufferSize > MaxBufferSize)
+    {
+        return false;
+    }
+
+    m_size = nextPowerOf2(bufferSize);
+    m_buffer.resize(m_size + 1);
+    return true;
+}
 
 } // namespace utility
 } // namespace clogger

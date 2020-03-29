@@ -7,6 +7,8 @@ AlignAfterOpenBracket : true
 AllowShortIfStatementsOnASingleLine : true
 AlwaysBreakTemplateDeclarations : true
 SpaceAfterTemplateKeyword : true
+AlwaysBreakAfterReturnType : None
+AlwaysBreakAfterDefinitionReturnType : None
 BraceWrapping:
   AfterClass:      true
   AfterControlStatement: true
