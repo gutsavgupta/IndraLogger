@@ -10,9 +10,9 @@
 
 #pragma once
 
-#include <logger/Logger.h>
-#include <logger/Severity.h>
-#include <logger/buffers/LoggerFRBuffer.h>
+#include "Logger.h"
+#include "Severity.h"
+#include "buffers/LoggerFRBuffer.h"
 
 namespace clogger {
 namespace logger {

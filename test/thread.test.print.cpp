@@ -16,7 +16,7 @@ void LogThread()
     while (std::getline(std::cin, line))
     {
         auto time1 = std::chrono::high_resolution_clock::now();
-        LOG(logger, Severity::DEBUG, "input[" << line << "]");
+        LOG(logger, Severity::DEBUG, " " << line);
         // CLOG(Severity::DEBUG, "input[" << line << "]");
 
         auto time2 = std::chrono::high_resolution_clock::now();
@@ -30,17 +30,29 @@ void LogThread()
         avgTime += timeDiff.count();
         ++count;
 
+#if 0
         std::cout << "time for logging a message of len:" << line.length()
                   << " is ns:" << timeDiff.count()
                   << " and time for clock::now() ns:" << clockDiff.count()
                   << " avgTime:" << (1.0 * avgTime) / count << std::endl;
+#endif
     }
     return;
 }
 
 void DumpThread()
 {
-    // clogger::Clogger::GetInstance().Run();
+    auto lastTime      = std::chrono::system_clock::now();
+    auto durationInSec = std::chrono::seconds(10);
+    while (1)
+    {
+        auto time = std::chrono::system_clock::now();
+        if (1 or time > lastTime + durationInSec)
+        {
+            clogger::Clogger::GetInstance().Run();
+            lastTime = time;
+        }
+    }
     return;
 }
 
@@ -51,5 +63,6 @@ int main()
 
     logThread.join();
     dumpThread.join();
+
     return 0;
 }

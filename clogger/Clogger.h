@@ -7,11 +7,11 @@
 
 #pragma once
 
-#include <CloggerMain.h>
-#include <CloggerTypes.h>
+#include "CloggerMain.h"
+#include "CloggerTypes.h"
 
 // Macro headers
-#include <utility/macroDefs/LogUtils.h>
+#include "utility/macroDefs/LogUtils.h"
 
 namespace clogger {
 

@@ -15,6 +15,8 @@
 #include <ctime>
 #include <iostream>
 
+#include <scope_guard.hpp>
+
 namespace clogger {
 namespace handler {
 
@@ -59,6 +61,15 @@ bool ZeroCopyReadHandler<LT, DT>::handle(LoggerBufferT& buffer)
         size_t       TotWriteByte{ 0 };
         char*        dumpBuffPtr = m_dumper.getBuffStart();
         const size_t dumpBuffLen = m_dumper.getBuffMaxLen();
+
+        // scope gaurd to move to the next
+        auto localGuard = sg::make_scope_guard([&]() {
+            // call read finish
+            buffer.ReadFinish();
+
+            // indicate dumpper to dump the buff and len
+            success = m_dumper.dump(dumpBuffPtr, TotWriteByte);
+        });
 
         // write time and severity into the bufferPtr
         auto time     = dataUnit->GetTime();
@@ -106,12 +117,6 @@ bool ZeroCopyReadHandler<LT, DT>::handle(LoggerBufferT& buffer)
                 return false;
             }
         }
-
-        // call read finish
-        buffer.ReadFinish();
-
-        // indicate dumpper to dump the buff and len
-        success = m_dumper.dump(dumpBuffPtr, TotWriteByte);
     }
     return success;
 }

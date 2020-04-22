@@ -8,9 +8,9 @@
 
 #pragma once
 
-#include <dumper/DumperTypes.h>
-#include <handler/HandlerTypes.h>
-#include <logger/LoggerTypes.h>
+#include "dumper/DumperTypes.h"
+#include "handler/HandlerTypes.h"
+#include "logger/LoggerTypes.h"
 
 namespace clogger {
 

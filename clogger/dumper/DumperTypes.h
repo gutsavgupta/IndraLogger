@@ -8,7 +8,7 @@
 
 #pragma once
 
-#include <dumper/StreamDumper.h>
+#include "StreamDumper.h"
 
 namespace clogger {
 namespace dumper {

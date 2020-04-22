@@ -9,6 +9,7 @@
 
 #pragma once
 
+#include "FastStream.h"
 #include <chrono>
 #include <ctime>
 #include <sstream>
@@ -16,7 +17,7 @@
 namespace clogger {
 namespace utility {
 
-template <typename SeverityType, typename StreamType = std::stringstream>
+template <typename SeverityType, typename StreamType>
 class StreamDataUnit
 {
 public:
@@ -35,10 +36,13 @@ public:
     ssize_t Write(const char* addr, size_t len);
 
     // Basic State interfaces
-    bool  Empty() { return data.peek() == EOF; }
+    bool  Empty() { return data.eof(); }
     auto& GetTime() const { return time; }
     auto& GetSeverity() const { return severity; }
     auto& GetPriority() const { return priority; }
+
+    // Reset Data unit
+    void ResetStream();
 
 private:
     PriorityT  priority{ 0 };
@@ -69,8 +73,8 @@ void StreamDataUnit<Enum, Stream>::init(SeverityT _severity)
     // Populating severity
     severity = _severity;
 
-    // clearing stringstream buffer
-    std::stringstream().swap(data);
+    // reset the stream
+    ResetStream();
 }
 
 template <typename Enum, typename Stream>
@@ -93,6 +97,12 @@ inline ssize_t StreamDataUnit<Enum, Stream>::Write(const char* addr, size_t len)
 {
     auto endPos = data.tellp();
     return data.write(addr, len).tellp() - endPos;
+}
+
+template <typename Enum, typename Stream>
+inline void StreamDataUnit<Enum, Stream>::ResetStream()
+{
+    data.reset();
 }
 
 } // namespace utility

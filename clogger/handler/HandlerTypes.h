@@ -8,8 +8,8 @@
 
 #pragma once
 
-#include <handler/PriorityHandler.h>
-#include <handler/ZeroCopyReadHandler.h>
+#include "PriorityHandler.h"
+#include "ZeroCopyReadHandler.h"
 
 namespace clogger {
 namespace handler {
