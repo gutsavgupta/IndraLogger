@@ -29,7 +29,7 @@ public:
     {
     }
 
-    FastStream(const FastStream&& rhs)
+    FastStream(FastStream&& rhs)
       : m_buffer(rhs.m_buffer)
       , BaseT(&m_buffer)
     {
