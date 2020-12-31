@@ -1,0 +1,638 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	447;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	450;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	453;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	456;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	460;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	462;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	464;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	468;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	471;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	474;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	479;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	482;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	485;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	490;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	493;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	496;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	499;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	502;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	505;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	508;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	511;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	514;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	517;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	522;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	525;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	528;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	531;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	534;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	537;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	540;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	432;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	435;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	438;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	441;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	445;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	447;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	449;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	453;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	456;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	459;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	464;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	467;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	470;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	475;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	478;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	481;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	484;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	487;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	490;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	493;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	496;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	499;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	502;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	507;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	510;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	513;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	516;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	519;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	522;"	d	file:
+ARCHITECTURE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	525;"	d	file:
+CHECK_MEMBER_FUNC_EXIST	clogger/utility/macroDefs/CheckMemFunc.h	20;"	d
+CLOG	clogger/utility/macroDefs/LogUtils.h	12;"	d
+CLoggerTypes	clogger/CloggerTypes.h	/^struct CLoggerTypes$/;"	s	namespace:clogger
+CMAKE_BINARY_DIR	_cmake_build/GitLibs/Makefile	/^CMAKE_BINARY_DIR = \/home\/utsavgupta\/GitRepo\/IndraLogger\/_cmake_build$/;"	m
+CMAKE_BINARY_DIR	_cmake_build/GitLibs/scope_guard/Makefile	/^CMAKE_BINARY_DIR = \/home\/utsavgupta\/GitRepo\/IndraLogger\/_cmake_build$/;"	m
+CMAKE_BINARY_DIR	_cmake_build/Makefile	/^CMAKE_BINARY_DIR = \/home\/utsavgupta\/GitRepo\/IndraLogger\/_cmake_build$/;"	m
+CMAKE_COMMAND	_cmake_build/GitLibs/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	_cmake_build/GitLibs/scope_guard/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	_cmake_build/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	_cmake_build/GitLibs/Makefile	/^CMAKE_SOURCE_DIR = \/home\/utsavgupta\/GitRepo\/IndraLogger$/;"	m
+CMAKE_SOURCE_DIR	_cmake_build/GitLibs/scope_guard/Makefile	/^CMAKE_SOURCE_DIR = \/home\/utsavgupta\/GitRepo\/IndraLogger$/;"	m
+CMAKE_SOURCE_DIR	_cmake_build/Makefile	/^CMAKE_SOURCE_DIR = \/home\/utsavgupta\/GitRepo\/IndraLogger$/;"	m
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	108;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	115;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	122;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	129;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	137;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	144;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	151;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	159;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	164;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	171;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	174;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	183;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	186;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	189;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	192;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	19;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	207;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	222;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	229;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	243;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	253;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	271;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	280;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	294;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	311;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	314;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	56;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	64;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	70;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	76;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	85;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	94;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	108;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	115;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	129;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	13;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	144;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	151;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	159;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	171;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	174;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	183;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	186;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	19;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	201;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	216;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	223;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	237;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	251;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	269;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	278;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	296;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	299;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	56;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	64;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	70;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	76;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	85;"	d	file:
+COMPILER_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	94;"	d	file:
+COMPILER_VERSION_INTERNAL	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	226;"	d	file:
+COMPILER_VERSION_INTERNAL	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	285;"	d	file:
+COMPILER_VERSION_INTERNAL	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	290;"	d	file:
+COMPILER_VERSION_INTERNAL	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	220;"	d	file:
+COMPILER_VERSION_INTERNAL	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	283;"	d	file:
+COMPILER_VERSION_INTERNAL	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	288;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	102;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	110;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	117;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	124;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	130;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	139;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	146;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	152;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	160;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	166;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	177;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	195;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	200;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	211;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	223;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	233;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	244;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	255;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	274;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	27;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	282;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	287;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	296;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	301;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	57;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	65;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	72;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	78;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	87;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	97;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	102;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	117;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	124;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	130;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	139;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	160;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	166;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	177;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	189;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	205;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	217;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	227;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	239;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	241;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	253;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	272;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	280;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	285;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	57;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	72;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	78;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	87;"	d	file:
+COMPILER_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	97;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	103;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	111;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	118;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	131;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	140;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	147;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	153;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	161;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	167;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	178;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	196;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	201;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	212;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	224;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	234;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	246;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	256;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	275;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	283;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	288;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	28;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	297;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	302;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	58;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	66;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	73;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	79;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	88;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	98;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	103;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	111;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	118;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	131;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	140;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	147;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	153;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	16;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	178;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	190;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	195;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	206;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	218;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	228;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	244;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	254;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	273;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	281;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	286;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	28;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	58;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	66;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	73;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	79;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	88;"	d	file:
+COMPILER_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	104;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	112;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	119;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	126;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	132;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	141;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	148;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	168;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	179;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	197;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	202;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	213;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	225;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	235;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	249;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	260;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	263;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	276;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	284;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	289;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	298;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	303;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	30;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	32;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	60;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	67;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	81;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	90;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	99;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	112;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	126;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	132;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	141;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	148;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	168;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	179;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	191;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	196;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	207;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	219;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	229;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	247;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	258;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	261;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	274;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	282;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	287;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	30;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	32;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	60;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	67;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	81;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	90;"	d	file:
+COMPILER_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	99;"	d	file:
+COMPILER_VERSION_TWEAK	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	133;"	d	file:
+COMPILER_VERSION_TWEAK	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	219;"	d	file:
+COMPILER_VERSION_TWEAK	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	267;"	d	file:
+COMPILER_VERSION_TWEAK	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	36;"	d	file:
+COMPILER_VERSION_TWEAK	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	133;"	d	file:
+COMPILER_VERSION_TWEAK	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	213;"	d	file:
+COMPILER_VERSION_TWEAK	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	265;"	d	file:
+COMPILER_VERSION_TWEAK	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	36;"	d	file:
+CXX_STD	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	608;"	d	file:
+CXX_STD	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	610;"	d	file:
+CXX_STD	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	613;"	d	file:
+CXX_STD	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	616;"	d	file:
+CXX_STD	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	618;"	d	file:
+C_DIALECT	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	623;"	d	file:
+C_DIALECT	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	625;"	d	file:
+C_DIALECT	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	628;"	d	file:
+C_DIALECT	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	630;"	d	file:
+C_DIALECT	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	632;"	d	file:
+CheckSeverity	clogger/logger/Logger.h	/^inline bool Logger<T>::CheckSeverity(const SeverityT severity) const$/;"	f	class:clogger::logger::Logger
+ClearBuffer	clogger/logger/Logger.h	/^    auto ClearBuffer() { return m_buffer.clear(); }$/;"	f	class:clogger::logger::Logger
+CloggerMain	clogger/CloggerMain.h	/^    CloggerMain()$/;"	f	class:clogger::CloggerMain
+CloggerMain	clogger/CloggerMain.h	/^class CloggerMain$/;"	c	namespace:clogger
+ConfigureBufferSize	clogger/CloggerMain.h	/^bool CloggerMain<T>::ConfigureBufferSize(size_t bufferSize, bool configureRest)$/;"	f	class:clogger::CloggerMain
+ConfigureSeverity	clogger/CloggerMain.h	/^bool CloggerMain<T>::ConfigureSeverity(SeverityT severity, bool configureRest)$/;"	f	class:clogger::CloggerMain
+ConvertToString	clogger/utility/dataStructs/StringifyEnum.h	/^std::string& StringifyEnum<T>::ConvertToString(Enum val)$/;"	f	class:clogger::utility::StringifyEnum
+DEC	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	544;"	d	file:
+DEC	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	529;"	d	file:
+DefaultDumperTypes	clogger/dumper/DumperTypes.h	/^struct DefaultDumperTypes$/;"	s	namespace:clogger::dumper
+DefaultHandlerTypes	clogger/handler/HandlerTypes.h	/^struct DefaultHandlerTypes$/;"	s	namespace:clogger::handler
+DefaultLoggerTypes	clogger/logger/LoggerTypes.h	/^struct DefaultLoggerTypes : public LoggerTypes<DefaultLoggerTypes>$/;"	s	namespace:clogger::logger
+DumpThread	test/thread.test.cpp	/^void DumpThread()$/;"	f
+DumpThread	test/thread.test.print.cpp	/^void DumpThread()$/;"	f
+EQUALS	_cmake_build/GitLibs/Makefile	/^EQUALS = =$/;"	m
+EQUALS	_cmake_build/GitLibs/scope_guard/Makefile	/^EQUALS = =$/;"	m
+EQUALS	_cmake_build/Makefile	/^EQUALS = =$/;"	m
+Empty	clogger/utility/dataStructs/StreamDataUnit.h	/^    bool  Empty() { return data.eof(); }$/;"	f	class:clogger::utility::StreamDataUnit
+EnumCreator	clogger/utility/macroDefs/EnumCreator.h	17;"	d
+ExtractFuncSign	clogger/utility/sfinaeStructs/ExtractFuncSign.h	/^struct ExtractFuncSign$/;"	s	namespace:clogger::utility
+ExtractFuncSign	clogger/utility/sfinaeStructs/ExtractFuncSign.h	/^struct ExtractFuncSign<S U::*>$/;"	s	namespace:clogger::utility
+FastBuffer	clogger/utility/dataStructs/FastBuffer.h	/^class FastBuffer : public std::streambuf$/;"	c	namespace:clogger::utility
+FastStream	clogger/utility/dataStructs/FastStream.h	/^    FastStream()$/;"	f	class:clogger::utility::FastStream
+FastStream	clogger/utility/dataStructs/FastStream.h	/^    FastStream(const FastStream&& rhs)$/;"	f	class:clogger::utility::FastStream
+FastStream	clogger/utility/dataStructs/FastStream.h	/^class FastStream : public std::iostream$/;"	c	namespace:clogger::utility
+FixedRingBuffer	clogger/utility/dataStructs/FixedRingBuffer.h	/^    FixedRingBuffer(size_t _size = MaxBufferSize) { SetSize(_size); }$/;"	f	class:clogger::utility::FixedRingBuffer
+FixedRingBuffer	clogger/utility/dataStructs/FixedRingBuffer.h	/^class FixedRingBuffer$/;"	c	namespace:clogger::utility
+GenerateTestFile	test/generateLoggerInput.py	/^def GenerateTestFile(argList):$/;"	f
+GetDerived	clogger/logger/buffers/LoggerBufferBase.h	/^    DerivedT*       GetDerived() { return static_cast<DerivedT*>(this); }$/;"	f	class:clogger::logger::LoggerBufferBase
+GetDerived	clogger/logger/buffers/LoggerBufferBase.h	/^    const DerivedT* GetDerived() const$/;"	f	class:clogger::logger::LoggerBufferBase
+GetPriority	clogger/utility/dataStructs/StreamDataUnit.h	/^    auto& GetPriority() const { return priority; }$/;"	f	class:clogger::utility::StreamDataUnit
+GetSeverity	clogger/logger/Logger.h	/^    auto GetSeverity() const { return m_severity; }$/;"	f	class:clogger::logger::Logger
+GetSeverity	clogger/utility/dataStructs/StreamDataUnit.h	/^    auto& GetSeverity() const { return severity; }$/;"	f	class:clogger::utility::StreamDataUnit
+GetTime	clogger/utility/dataStructs/StreamDataUnit.h	/^    auto& GetTime() const { return time; }$/;"	f	class:clogger::utility::StreamDataUnit
+HEX	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	555;"	d	file:
+HEX	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	540;"	d	file:
+HandleBuffer	clogger/logger/Logger.h	/^inline bool Logger<T>::HandleBuffer(H& handler)$/;"	f	class:clogger::logger::Logger
+ID_VOID_MAIN	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	6;"	d	file:
+IncreaseSize	clogger/utility/dataStructs/StringBuffer.h	/^inline bool StringBuffer::IncreaseSize()$/;"	f	class:clogger::utility::StringBuffer
+LOG	clogger/utility/macroDefs/LogUtils.h	3;"	d
+LoadArgs	test/generateLoggerInput.py	/^def LoadArgs():$/;"	f
+LogThread	test/thread.test.cpp	/^void LogThread()$/;"	f
+LogThread	test/thread.test.print.cpp	/^void LogThread()$/;"	f
+Logger	clogger/logger/Logger.h	/^    Logger()$/;"	f	class:clogger::logger::Logger
+Logger	clogger/logger/Logger.h	/^    Logger(SeverityT severity)$/;"	f	class:clogger::logger::Logger
+Logger	clogger/logger/Logger.h	/^    Logger(SeverityT severity, size_t bufferSize)$/;"	f	class:clogger::logger::Logger
+Logger	clogger/logger/Logger.h	/^    Logger(size_t bufferSize)$/;"	f	class:clogger::logger::Logger
+Logger	clogger/logger/Logger.h	/^class Logger$/;"	c	namespace:clogger::logger
+LoggerBufferBase	clogger/logger/buffers/LoggerBufferBase.h	/^class LoggerBufferBase$/;"	c	namespace:clogger::logger
+LoggerFRBuffer	clogger/logger/buffers/LoggerFRBuffer.h	/^class LoggerFRBuffer$/;"	c	namespace:clogger::logger
+LoggerFRDataUnit	clogger/logger/buffers/LoggerFRBuffer.h	/^struct LoggerFRDataUnit$/;"	s	namespace:clogger::logger
+LoggerTypes	clogger/logger/LoggerTypes.h	/^struct LoggerTypes$/;"	s	namespace:clogger::logger
+NextIdx	clogger/utility/dataStructs/FixedRingBuffer.h	/^    size_t NextIdx(size_t idx) { return (idx + 1) & m_size; }$/;"	f	class:clogger::utility::FixedRingBuffer
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	339;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	342;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	345;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	348;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	351;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	354;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	357;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	360;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	363;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	366;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	369;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	372;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	375;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	378;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	381;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	384;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	387;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	390;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	393;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	396;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	399;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	402;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	405;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	408;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	412;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	415;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	418;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	421;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	424;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	429;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	432;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	436;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	324;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	327;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	330;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	333;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	336;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	339;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	342;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	345;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	348;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	351;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	354;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	357;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	360;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	363;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	366;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	369;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	372;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	375;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	378;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	381;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	384;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	387;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	390;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	393;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	397;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	400;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	403;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	406;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	409;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	414;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	417;"	d	file:
+PLATFORM_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	421;"	d	file:
+PriorityHandler	clogger/handler/PriorityHandler.h	/^class PriorityHandler$/;"	c	namespace:clogger::handler
+READY	clogger/logger/buffers/LoggerBufferBase.h	/^        READY,$/;"	m	class:clogger::logger::LoggerBufferBase::State
+RM	_cmake_build/GitLibs/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RM	_cmake_build/GitLibs/scope_guard/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RM	_cmake_build/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+Read	clogger/utility/dataStructs/StreamDataUnit.h	/^inline ssize_t StreamDataUnit<Enum, Stream>::Read(char* addr, size_t len)$/;"	f	class:clogger::utility::StreamDataUnit
+ResetBack	clogger/utility/dataStructs/StringBuffer.h	/^inline void StringBuffer::ResetBack(const char c)$/;"	f	class:clogger::utility::StringBuffer
+ResetStream	clogger/utility/dataStructs/StreamDataUnit.h	/^inline void StreamDataUnit<Enum, Stream>::ResetStream()$/;"	f	class:clogger::utility::StreamDataUnit
+SHELL	_cmake_build/GitLibs/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	_cmake_build/GitLibs/scope_guard/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	_cmake_build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SIMULATE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	209;"	d	file:
+SIMULATE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	21;"	d	file:
+SIMULATE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	231;"	d	file:
+SIMULATE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	24;"	d	file:
+SIMULATE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	203;"	d	file:
+SIMULATE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+SIMULATE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	225;"	d	file:
+SIMULATE_ID	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+SIMULATE_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	216;"	d	file:
+SIMULATE_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	238;"	d	file:
+SIMULATE_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	40;"	d	file:
+SIMULATE_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	44;"	d	file:
+SIMULATE_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	46;"	d	file:
+SIMULATE_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	210;"	d	file:
+SIMULATE_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	232;"	d	file:
+SIMULATE_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	40;"	d	file:
+SIMULATE_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	44;"	d	file:
+SIMULATE_VERSION_MAJOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	46;"	d	file:
+SIMULATE_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	217;"	d	file:
+SIMULATE_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	239;"	d	file:
+SIMULATE_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	41;"	d	file:
+SIMULATE_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	49;"	d	file:
+SIMULATE_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	211;"	d	file:
+SIMULATE_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	233;"	d	file:
+SIMULATE_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	41;"	d	file:
+SIMULATE_VERSION_MINOR	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	49;"	d	file:
+SIMULATE_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	52;"	d	file:
+SIMULATE_VERSION_PATCH	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	52;"	d	file:
+STRINGIFY	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	335;"	d	file:
+STRINGIFY	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	320;"	d	file:
+STRINGIFY_HELPER	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	334;"	d	file:
+STRINGIFY_HELPER	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	319;"	d	file:
+SUFFIXES	_cmake_build/GitLibs/Makefile	/^SUFFIXES =$/;"	m
+SUFFIXES	_cmake_build/GitLibs/scope_guard/Makefile	/^SUFFIXES =$/;"	m
+SUFFIXES	_cmake_build/Makefile	/^SUFFIXES =$/;"	m
+SetBufferSize	clogger/logger/Logger.h	/^inline auto Logger<T>::SetBufferSize(size_t bufferSize)$/;"	f	class:clogger::logger::Logger
+SetSeverity	clogger/logger/Logger.h	/^    auto SetSeverity(SeverityT severity) { m_severity = severity; }$/;"	f	class:clogger::logger::Logger
+SetSize	clogger/utility/dataStructs/FixedRingBuffer.h	/^bool FixedRingBuffer<T>::SetSize(size_t bufferSize)$/;"	f	class:clogger::utility::FixedRingBuffer
+State	clogger/logger/buffers/LoggerBufferBase.h	/^    enum class State$/;"	c	class:clogger::logger::LoggerBufferBase
+StreamDataUnit	clogger/utility/dataStructs/StreamDataUnit.h	/^class StreamDataUnit$/;"	c	namespace:clogger::utility
+StreamDumper	clogger/dumper/StreamDumper.h	/^    StreamDumper(StreamT& stream)$/;"	f	class:clogger::dumper::StreamDumper
+StreamDumper	clogger/dumper/StreamDumper.h	/^StreamDumper<std::ostream>::StreamDumper()$/;"	f	class:clogger::dumper::StreamDumper
+StreamDumper	clogger/dumper/StreamDumper.h	/^class StreamDumper$/;"	c	namespace:clogger::dumper
+StringBuffer	clogger/utility/dataStructs/StringBuffer.h	/^    StringBuffer()$/;"	f	class:clogger::utility::StringBuffer
+StringBuffer	clogger/utility/dataStructs/StringBuffer.h	/^class StringBuffer : public std::string$/;"	c	namespace:clogger::utility
+StringifyEnum	clogger/utility/dataStructs/StringifyEnum.h	/^class StringifyEnum$/;"	c	namespace:clogger::utility
+Write	clogger/utility/dataStructs/StreamDataUnit.h	/^inline ssize_t StreamDataUnit<Enum, Stream>::Write(const char* addr, size_t len)$/;"	f	class:clogger::utility::StreamDataUnit
+WriteFinish	clogger/logger/Logger.h	/^    auto WriteFinish() { return m_buffer.WriteFinish(); }$/;"	f	class:clogger::logger::Logger
+WriteNext	clogger/logger/Logger.h	/^    auto WriteNext(SeverityT severity) { return m_buffer.WriteNext(severity); }$/;"	f	class:clogger::logger::Logger
+ZeroCopyReadHandler	clogger/handler/ZeroCopyReadHandler.h	/^    explicit ZeroCopyReadHandler(DumperT& dumper)$/;"	f	class:clogger::handler::ZeroCopyReadHandler
+ZeroCopyReadHandler	clogger/handler/ZeroCopyReadHandler.h	/^class ZeroCopyReadHandler$/;"	c	namespace:clogger::handler
+begin	clogger/utility/dataStructs/StringBuffer.h	/^inline char* StringBuffer::begin()$/;"	f	class:clogger::utility::StringBuffer
+clear	clogger/utility/dataStructs/FixedRingBuffer.h	/^    void clear() { m_head = m_tail = 0; }$/;"	f	class:clogger::utility::FixedRingBuffer
+clogger	clogger/Clogger.h	/^namespace clogger {$/;"	n
+clogger	clogger/CloggerMain.h	/^namespace clogger {$/;"	n
+clogger	clogger/CloggerTypes.h	/^namespace clogger {$/;"	n
+clogger	clogger/dumper/DumperTypes.h	/^namespace clogger {$/;"	n
+clogger	clogger/dumper/StreamDumper.h	/^namespace clogger {$/;"	n
+clogger	clogger/handler/HandlerTypes.h	/^namespace clogger {$/;"	n
+clogger	clogger/handler/PriorityHandler.h	/^namespace clogger {$/;"	n
+clogger	clogger/handler/ZeroCopyReadHandler.h	/^namespace clogger {$/;"	n
+clogger	clogger/logger/Logger.h	/^namespace clogger {$/;"	n
+clogger	clogger/logger/LoggerTypes.h	/^namespace clogger {$/;"	n
+clogger	clogger/logger/Severity.h	/^namespace clogger {$/;"	n
+clogger	clogger/logger/buffers/LoggerBufferBase.h	/^namespace clogger {$/;"	n
+clogger	clogger/logger/buffers/LoggerFRBuffer.h	/^namespace clogger {$/;"	n
+clogger	clogger/utility/dataStructs/FastBuffer.h	/^namespace clogger {$/;"	n
+clogger	clogger/utility/dataStructs/FastStream.h	/^namespace clogger {$/;"	n
+clogger	clogger/utility/dataStructs/FixedRingBuffer.h	/^namespace clogger {$/;"	n
+clogger	clogger/utility/dataStructs/StreamDataUnit.h	/^namespace clogger {$/;"	n
+clogger	clogger/utility/dataStructs/StringBuffer.h	/^namespace clogger {$/;"	n
+clogger	clogger/utility/dataStructs/StringifyEnum.h	/^namespace clogger {$/;"	n
+clogger	clogger/utility/sfinaeStructs/ExtractFuncSign.h	/^namespace clogger {$/;"	n
+const	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	10;"	d	file:
+data	clogger/utility/dataStructs/StreamDataUnit.h	/^    StreamType data;$/;"	m	class:clogger::utility::StreamDataUnit
+dump	clogger/dumper/StreamDumper.h	/^bool StreamDumper<T>::dump(const char* buff, const size_t len)$/;"	f	class:clogger::dumper::StreamDumper
+dumper	clogger/dumper/DumperTypes.h	/^namespace dumper {$/;"	n	namespace:clogger
+dumper	clogger/dumper/StreamDumper.h	/^namespace dumper {$/;"	n	namespace:clogger
+empty	clogger/utility/dataStructs/FixedRingBuffer.h	/^    bool empty() { return m_tail == m_head; }$/;"	f	class:clogger::utility::FixedRingBuffer
+end	clogger/utility/dataStructs/StringBuffer.h	/^inline char* StringBuffer::end()$/;"	f	class:clogger::utility::StringBuffer
+filled	clogger/utility/dataStructs/FixedRingBuffer.h	/^    bool filled() { return NextIdx(m_head) == m_tail; }$/;"	f	class:clogger::utility::FixedRingBuffer
+getBuffMaxLen	clogger/dumper/StreamDumper.h	/^    size_t getBuffMaxLen() const { return MaxBufferLen; }$/;"	f	class:clogger::dumper::StreamDumper
+getBuffStart	clogger/dumper/StreamDumper.h	/^    char*  getBuffStart() { return m_buffer; }$/;"	f	class:clogger::dumper::StreamDumper
+getHead	clogger/utility/dataStructs/FixedRingBuffer.h	/^    DataUnitT* getHead() { return &(m_buffer.at(m_head)); }$/;"	f	class:clogger::utility::FixedRingBuffer
+getTail	clogger/utility/dataStructs/FixedRingBuffer.h	/^    DataUnitT* getTail() { return &(m_buffer.at(m_tail)); }$/;"	f	class:clogger::utility::FixedRingBuffer
+handle	clogger/handler/PriorityHandler.h	/^bool PriorityHandler<T>::handle(LoggerBufferT& buffer)$/;"	f	class:clogger::handler::PriorityHandler
+handle	clogger/handler/ZeroCopyReadHandler.h	/^bool ZeroCopyReadHandler<LT, DT>::handle(LoggerBufferT& buffer)$/;"	f	class:clogger::handler::ZeroCopyReadHandler
+handler	clogger/handler/HandlerTypes.h	/^namespace handler {$/;"	n	namespace:clogger
+handler	clogger/handler/PriorityHandler.h	/^namespace handler {$/;"	n	namespace:clogger
+handler	clogger/handler/ZeroCopyReadHandler.h	/^namespace handler {$/;"	n	namespace:clogger
+incrHead	clogger/utility/dataStructs/FixedRingBuffer.h	/^    void incrHead() { m_head = (not filled()) ? NextIdx(m_head) : m_head; }$/;"	f	class:clogger::utility::FixedRingBuffer
+incrTail	clogger/utility/dataStructs/FixedRingBuffer.h	/^    void incrTail() { m_tail = (not empty()) ? NextIdx(m_tail) : m_tail; }$/;"	f	class:clogger::utility::FixedRingBuffer
+info_arch	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_cray	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_cray	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_language_dialect_default	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_dialect_default =$/;"	v
+info_language_dialect_default	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_platform	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_simulate	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate_version	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v
+info_simulate_version	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v
+info_version	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v
+info_version	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v
+info_version_internal	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	/^char const info_version_internal[] = {$/;"	v
+info_version_internal	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version_internal[] = {$/;"	v
+init	clogger/utility/dataStructs/StreamDataUnit.h	/^void StreamDataUnit<Enum, Stream>::init(SeverityT _severity)$/;"	f	class:clogger::utility::StreamDataUnit
+logger	clogger/logger/Logger.h	/^namespace logger {$/;"	n	namespace:clogger
+logger	clogger/logger/LoggerTypes.h	/^namespace logger {$/;"	n	namespace:clogger
+logger	clogger/logger/Severity.h	/^namespace logger {$/;"	n	namespace:clogger
+logger	clogger/logger/buffers/LoggerBufferBase.h	/^namespace logger {$/;"	n	namespace:clogger
+logger	clogger/logger/buffers/LoggerFRBuffer.h	/^namespace logger {$/;"	n	namespace:clogger
+ltrim	clogger/utility/dataStructs/StringifyEnum.h	/^inline std::string& StringifyEnum<T>::ltrim(std::string& str)$/;"	f	class:clogger::utility::StringifyEnum
+m_buffer	clogger/dumper/StreamDumper.h	/^    char     m_buffer[MaxBufferLen];$/;"	m	class:clogger::dumper::StreamDumper
+m_buffer	clogger/logger/Logger.h	/^    LoggerBufferT m_buffer;$/;"	m	class:clogger::logger::Logger
+m_buffer	clogger/utility/dataStructs/FastBuffer.h	/^    BufferUnitT m_buffer;$/;"	m	class:clogger::utility::FastBuffer
+m_buffer	clogger/utility/dataStructs/FastStream.h	/^    BufferT m_buffer;$/;"	m	class:clogger::utility::FastStream
+m_bufferSize	clogger/CloggerMain.h	/^    size_t    m_bufferSize;$/;"	m	class:clogger::CloggerMain
+m_dumper	clogger/CloggerMain.h	/^    DumperT   m_dumper;$/;"	m	class:clogger::CloggerMain
+m_dumper	clogger/handler/ZeroCopyReadHandler.h	/^    DumperT& m_dumper;$/;"	m	class:clogger::handler::ZeroCopyReadHandler
+m_loggerMap	clogger/CloggerMain.h	/^    std::unordered_map<IndexT, LoggerPtrT> m_loggerMap;$/;"	m	class:clogger::CloggerMain
+m_severity	clogger/CloggerMain.h	/^    SeverityT m_severity;$/;"	m	class:clogger::CloggerMain
+m_stream	clogger/dumper/StreamDumper.h	/^    StreamT& m_stream;$/;"	m	class:clogger::dumper::StreamDumper
+main	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	/^int main(argc, argv) int argc; char *argv[];$/;"	f
+main	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	test/thread.test.cpp	/^int main()$/;"	f
+main	test/thread.test.print.cpp	/^int main()$/;"	f
+override	clogger/utility/dataStructs/FastBuffer.h	/^    int_type overflow(int_type = TraitsT::eof()) override;$/;"	m	class:clogger::utility::FastBuffer
+override	clogger/utility/dataStructs/FastBuffer.h	/^    int_type underflow() override;$/;"	m	class:clogger::utility::FastBuffer
+parse	clogger/utility/dataStructs/StringifyEnum.h	/^bool StringifyEnum<T>::parse()$/;"	f	class:clogger::utility::StringifyEnum
+printUsage	test/generateLoggerInput.py	/^def printUsage():$/;"	f
+qnxnto	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qnxnto	_cmake_build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+read	clogger/utility/dataStructs/FastStream.h	/^inline FastStream<T>& FastStream<T>::read(char_type* addr, std::streamsize n)$/;"	f	class:clogger::utility::FastStream
+reset	clogger/handler/PriorityHandler.h	/^    void reset() { m_priority = std::numeric_limits<uint64_t>::max(); }$/;"	f	class:clogger::handler::PriorityHandler
+reset	clogger/utility/dataStructs/FastBuffer.h	/^void FastBuffer<T>::reset()$/;"	f	class:clogger::utility::FastBuffer
+reset	clogger/utility/dataStructs/FastStream.h	/^inline void FastStream<T>::reset()$/;"	f	class:clogger::utility::FastStream
+reset	clogger/utility/dataStructs/StringBuffer.h	/^inline void StringBuffer::reset()$/;"	f	class:clogger::utility::StringBuffer
+rtrim	clogger/utility/dataStructs/StringifyEnum.h	/^inline std::string& StringifyEnum<T>::rtrim(std::string& str)$/;"	f	class:clogger::utility::StringifyEnum
+s_bufferSizeMutex	clogger/CloggerMain.h	/^    static std::mutex s_bufferSizeMutex;$/;"	m	class:clogger::CloggerMain
+s_bufferSizeMutex	clogger/CloggerMain.h	/^std::mutex CloggerMain<T>::s_bufferSizeMutex;$/;"	m	class:clogger::CloggerMain
+s_cloggerPtr	clogger/CloggerMain.h	/^    static std::unique_ptr<CloggerMainT> s_cloggerPtr;$/;"	m	class:clogger::CloggerMain
+s_cloggerPtr	clogger/CloggerMain.h	/^std::unique_ptr<CloggerMain<T>> CloggerMain<T>::s_cloggerPtr;$/;"	m	class:clogger::CloggerMain
+s_enumStringMap	clogger/utility/dataStructs/StringifyEnum.h	/^    static ContainerType         s_enumStringMap;$/;"	m	class:clogger::utility::StringifyEnum
+s_enumStringMap	clogger/utility/dataStructs/StringifyEnum.h	/^typename StringifyEnum<T>::ContainerType StringifyEnum<T>::s_enumStringMap;$/;"	m	class:clogger::utility::StringifyEnum
+s_instanceMutex	clogger/CloggerMain.h	/^    static std::mutex s_instanceMutex;$/;"	m	class:clogger::CloggerMain
+s_instanceMutex	clogger/CloggerMain.h	/^std::mutex CloggerMain<T>::s_instanceMutex;$/;"	m	class:clogger::CloggerMain
+s_isParsed	clogger/utility/dataStructs/StringifyEnum.h	/^    static bool                  s_isParsed;$/;"	m	class:clogger::utility::StringifyEnum
+s_loggerMapMutex	clogger/CloggerMain.h	/^    static std::mutex s_loggerMapMutex;$/;"	m	class:clogger::CloggerMain
+s_loggerMapMutex	clogger/CloggerMain.h	/^std::mutex CloggerMain<T>::s_loggerMapMutex;$/;"	m	class:clogger::CloggerMain
+s_severityMutex	clogger/CloggerMain.h	/^    static std::mutex s_severityMutex;$/;"	m	class:clogger::CloggerMain
+s_severityMutex	clogger/CloggerMain.h	/^std::mutex CloggerMain<T>::s_severityMutex;$/;"	m	class:clogger::CloggerMain
+severity	clogger/utility/dataStructs/StreamDataUnit.h	/^    SeverityT  severity;$/;"	m	class:clogger::utility::StreamDataUnit
+trim	clogger/utility/dataStructs/StringifyEnum.h	/^inline std::string& StringifyEnum<T>::trim(std::string& str)$/;"	f	class:clogger::utility::StringifyEnum
+utility	clogger/utility/dataStructs/FastBuffer.h	/^namespace utility {$/;"	n	namespace:clogger
+utility	clogger/utility/dataStructs/FastStream.h	/^namespace utility {$/;"	n	namespace:clogger
+utility	clogger/utility/dataStructs/FixedRingBuffer.h	/^namespace utility {$/;"	n	namespace:clogger
+utility	clogger/utility/dataStructs/StreamDataUnit.h	/^namespace utility {$/;"	n	namespace:clogger
+utility	clogger/utility/dataStructs/StringBuffer.h	/^namespace utility {$/;"	n	namespace:clogger
+utility	clogger/utility/dataStructs/StringifyEnum.h	/^namespace utility {$/;"	n	namespace:clogger
+utility	clogger/utility/sfinaeStructs/ExtractFuncSign.h	/^namespace utility {$/;"	n	namespace:clogger
+value	clogger/handler/PriorityHandler.h	/^    auto value() const { return m_priority; }$/;"	f	class:clogger::handler::PriorityHandler
+volatile	_cmake_build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	11;"	d	file:
+whiteSpace	clogger/utility/dataStructs/StringifyEnum.h	/^    static constexpr const char* whiteSpace = " \\t\\n";$/;"	m	class:clogger::utility::StringifyEnum

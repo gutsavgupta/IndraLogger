@@ -3,7 +3,7 @@
 cmake_minimum_required(VERSION 3.5)
 
 # set the project name
-project (Clogger)
+project (QLogger)
 
 # add dirs for external libs
 add_subdirectory(../GitLibs ./GitLibs)
@@ -12,18 +12,18 @@ add_subdirectory(../GitLibs ./GitLibs)
 find_package(Threads)
 
 # -------------------------------------
-# clogger static library
+# qlogger static library
 # -------------------------------------
-add_library(Clogger_lib INTERFACE
+add_library(QLogger_lib INTERFACE
 )
-add_library(Clogger::lib ALIAS Clogger_lib)
+add_library(QLogger::lib ALIAS QLogger_lib)
 
-target_include_directories(Clogger_lib
+target_include_directories(QLogger_lib
     INTERFACE
-        ${PROJECT_SOURCE_DIR}/clogger
+        ${PROJECT_SOURCE_DIR}/qlogger
 )
 
-target_link_libraries(Clogger_lib
+target_link_libraries(QLogger_lib
     INTERFACE
         scope_guard::lib
 )
@@ -37,7 +37,7 @@ add_executable(thread_test
 
 target_link_libraries(thread_test
     PRIVATE
-        Clogger::lib
+        QLogger::lib
         Threads::Threads
 )
 
@@ -47,7 +47,7 @@ add_executable(thread_test_print
 
 target_link_libraries(thread_test_print
     PRIVATE
-        Clogger::lib
+        QLogger::lib
         Threads::Threads
 )
 

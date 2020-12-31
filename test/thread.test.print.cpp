@@ -1,18 +1,18 @@
-#include <Clogger.h>
+#include <QLogger.h>
 
 #include <chrono>
 #include <iostream>
 #include <string>
 #include <thread>
 
-using Severity = typename clogger::Clogger::SeverityT;
+using Severity = typename qlogger::QLogger::SeverityT;
 std::string line;
 
 void LogThread()
 {
     uint64_t avgTime = 0;
     uint64_t count   = 0;
-    auto&    logger  = clogger::Clogger::GetInstance().GetLogger();
+    auto&    logger  = qlogger::QLogger::GetInstance().GetLogger();
     while (std::getline(std::cin, line))
     {
         auto time1 = std::chrono::high_resolution_clock::now();
@@ -49,7 +49,7 @@ void DumpThread()
         auto time = std::chrono::system_clock::now();
         if (1 or time > lastTime + durationInSec)
         {
-            clogger::Clogger::GetInstance().Run();
+            qlogger::QLogger::GetInstance().Run();
             lastTime = time;
         }
     }
