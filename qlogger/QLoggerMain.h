@@ -45,7 +45,7 @@ public:
     DumperT& GetDumper();
 
     // Functionality interface
-    bool Run();
+    bool Run(bool tillComplete = false);
 
     bool ConfigureSeverity(SeverityT severity, bool configureRest = true);
 
@@ -157,7 +157,7 @@ auto QLoggerMain<T>::GetDumper() -> DumperT&
 }
 
 template <typename T>
-auto QLoggerMain<T>::Run() -> bool
+auto QLoggerMain<T>::Run(bool tillComplete) -> bool
 {
     // we iterate through each stored logger to calculate the
     // lowest ranl/priority (lower the priority value, higher the priority)
@@ -203,6 +203,10 @@ auto QLoggerMain<T>::Run() -> bool
                           << std::endl;
                 return false;
             }
+        }
+        else if (tillComplete)
+        {
+            break;
         }
     }
     return true;

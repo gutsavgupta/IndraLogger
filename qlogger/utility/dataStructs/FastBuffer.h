@@ -93,7 +93,6 @@ void FastBuffer<T>::reset()
     auto strPtr = static_cast<char_type*>(m_buffer.begin());
     auto endPtr = static_cast<char_type*>(strPtr + m_buffer.size());
 
-    std::fill(strPtr, endPtr, '\0');
     BaseT::setp(strPtr, endPtr);
 
     // reset the get area

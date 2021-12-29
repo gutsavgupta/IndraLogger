@@ -9,5 +9,7 @@
         bufferPtr ? (void)(logger.WriteFinish()) : (void)(0);                  \
     }
 
-#define CLOG(severity, text)                                                   \
-    LOG(qlogger::Clogger::GetInstance().GetLogger(), severity, text)
+#define QLOG(severity, text)                                                   \
+    LOG(qlogger::QLogger::GetInstance().GetLogger(),                           \
+        qlogger::Severity::severity,                                           \
+        text)

@@ -14,7 +14,6 @@
 #include "utility/macroDefs/LogUtils.h"
 
 namespace qlogger {
-
-using QLogger = QLoggerMain<DefaultQLoggerTypes>;
-
-} // namespace clogger
+using QLogger  = QLoggerMain<DefaultQLoggerTypes>;
+using Severity = typename QLogger::SeverityT;
+} // namespace qlogger

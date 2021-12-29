@@ -8,6 +8,25 @@
 using Severity = typename qlogger::QLogger::SeverityT;
 std::string line;
 
+void LogThread2()
+{
+    constexpr int MAX_ITR{ 20000 };
+    auto&         logger   = qlogger::QLogger::GetInstance().GetLogger();
+    auto          time1    = std::chrono::high_resolution_clock::now();
+    auto          bechmark = "benchmark";
+    for (auto _ = 0; _ < MAX_ITR; ++_)
+    {
+        LOG(logger, Severity::DEBUG, "input[" << bechmark << "]");
+    }
+    auto time2 = std::chrono::high_resolution_clock::now();
+    auto timeDiff =
+      std::chrono::duration_cast<std::chrono::nanoseconds>(time2 - time1);
+
+    std::cout << "Average logging time:" << (1.0 * timeDiff.count()) / MAX_ITR
+              << " ns" << std::endl;
+    return;
+}
+
 void LogThread()
 {
     uint64_t avgTime = 0;
@@ -46,7 +65,7 @@ void DumpThread()
 
 int main()
 {
-    std::thread logThread(LogThread);
+    std::thread logThread(LogThread2);
     std::thread dumpThread(DumpThread);
 
     logThread.join();

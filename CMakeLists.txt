@@ -12,6 +12,17 @@ add_subdirectory(../GitLibs ./GitLibs)
 find_package(Threads)
 
 # -------------------------------------
+# cmake compiler flags
+# -------------------------------------
+if(NOT CMAKE_BUILD_TYPE)
+  set(CMAKE_BUILD_TYPE Release)
+endif()
+
+set(CMAKE_CXX_FLAGS "-Wall -Wextra")
+set(CMAKE_CXX_FLAGS_DEBUG "-g")
+set(CMAKE_CXX_FLAGS_RELEASE "-O2")
+
+# -------------------------------------
 # qlogger static library
 # -------------------------------------
 add_library(QLogger_lib INTERFACE
